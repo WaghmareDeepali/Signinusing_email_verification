@@ -132,5 +132,5 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER ='ENter your username'                   #sender's email-id
 EMAIL_HOST_PASSWORD = 'Enter your password'      #password associated with above email-id
 TIMEOUT = 300 
-
+#enter your details
 
